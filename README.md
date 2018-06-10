@@ -2,4 +2,4 @@
 test example of form validations
 
 
-https://raw.githubusercontent.com/milapparikh/angular-single-form/master/phone_valid_1.png
+<img src="https://raw.githubusercontent.com/milapparikh/angular-single-form/master/phone_valid_1.png">
